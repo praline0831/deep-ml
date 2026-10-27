@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-10-26 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-27 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-27 | [solution](problems/0143-instance-normalization-in-implementation) |
+| [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-27 | [solution](problems/0227-knowledge-distillation-loss) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-27 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-10-27 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-27 | [solution](problems/0208-flash-attention-v1-forward-pass) |
