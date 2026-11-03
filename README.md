@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-11-03 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-28 | [solution](problems/0303-forward-diffusion-process) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-26 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-11-03 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-10-26 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-27 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-27 | [solution](problems/0143-instance-normalization-in-implementation) |
