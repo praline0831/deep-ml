@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:31:47.479Z",
+  "generated_at": "2026-11-22T10:52:59.361Z",
   "items": {
     "problem:40": {
       "kind": "problem",
@@ -351,6 +351,19 @@
       "last_pushed_at": "2026-11-22T05:31:46.764Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:409": {
+      "kind": "problem",
+      "id": "409",
+      "title": "MoE with Shared Expert Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/409",
+      "path": "problems/0409-moe-with-shared-expert-forward-pass",
+      "first_solved_at": "2026-11-22T10:52:58.369Z",
+      "last_pushed_at": "2026-11-22T10:52:58.369Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
