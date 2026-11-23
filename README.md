@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-26 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-11-03 | [solution](problems/0271-implement-gated-attention) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-10-26 | [solution](problems/0126-implement-group-normalization) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-23 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement mHC Forward Pass](https://www.deep-ml.com/problems/298) | medium | 2026-11-04 | [solution](problems/0298-implement-mhc-forward-pass) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-11-11 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-10-27 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
