@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**30** solved · 30 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-10-28 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-10-29 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-10-28 | [solution](problems/0302-diffusion-reconstruction-loss) |
+| [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-11-23 | [solution](problems/0151-dropout-layer) |
 | [Forward & Backward Diffusion Process](https://www.deep-ml.com/problems/304) | medium | 2026-11-03 | [solution](problems/0304-forward-backward-diffusion-process) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-10-28 | [solution](problems/0303-forward-diffusion-process) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-26 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
