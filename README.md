@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-27 | [solution](problems/0227-knowledge-distillation-loss) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-29 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-27 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
+| [Mixture of Experts Load Balancing Loss](https://www.deep-ml.com/problems/389) | medium | 2026-11-25 | [solution](problems/0389-mixture-of-experts-load-balancing-loss) |
 | [MoE with Shared Expert Forward Pass](https://www.deep-ml.com/problems/409) | medium | 2026-11-22 | [solution](problems/0409-moe-with-shared-expert-forward-pass) |
 | [PTX Loss for Catastrophic Forgetting Prevention (RLHF)](https://www.deep-ml.com/problems/232) | medium | 2026-10-28 | [solution](problems/0232-ptx-loss-for-catastrophic-forgetting-prevention-rlhf) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-10-27 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
