@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**32** solved · 32 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-10-27 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Exponential Moving Average (EMA) for Diffusion Model Weights](https://www.deep-ml.com/problems/401) | easy | 2026-11-25 | [solution](problems/0401-exponential-moving-average-ema-for-diffusion-model-weights) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-11-22 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-21 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-11-21 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
